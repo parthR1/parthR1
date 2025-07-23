@@ -26,15 +26,5 @@ A passionate software engineer and creative problem-solver who loves building im
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthr1&layout=compact&langs_count=8" />
 </p>
 
----
-
-## 📬 Let's Connect
-
-- 📧 [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-
----
-
 _“Code is a form of art — each line, a brushstroke towards simplicity and elegance.”_
 
