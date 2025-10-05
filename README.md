@@ -28,3 +28,4 @@ A passionate software engineer and creative problem-solver who loves building im
 
 _“Code is a form of art — each line, a brushstroke towards simplicity and elegance.”_
 
+> Get in touch: <!--email_off-->22f3002726@ds.study.iitm.ac.in<!--/email_off-->
